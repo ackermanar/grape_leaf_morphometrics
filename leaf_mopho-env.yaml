@@ -1,0 +1,4 @@
+name: leaf_mopho-env
+channels:
+  - conda-forge
+prefix: /Users/aja294/miniforge3/envs/leaf_mopho-env
